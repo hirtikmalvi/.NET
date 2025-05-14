@@ -1,0 +1,11 @@
+E:\.NET\Module 2\Assignment 2\PayrollLibrary\bin\Debug\net8.0\PayrollLibrary.deps.json
+E:\.NET\Module 2\Assignment 2\PayrollLibrary\bin\Debug\net8.0\PayrollLibrary.dll
+E:\.NET\Module 2\Assignment 2\PayrollLibrary\bin\Debug\net8.0\PayrollLibrary.pdb
+E:\.NET\Module 2\Assignment 2\PayrollLibrary\obj\Debug\net8.0\PayrollLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\Module 2\Assignment 2\PayrollLibrary\obj\Debug\net8.0\PayrollLibrary.AssemblyInfoInputs.cache
+E:\.NET\Module 2\Assignment 2\PayrollLibrary\obj\Debug\net8.0\PayrollLibrary.AssemblyInfo.cs
+E:\.NET\Module 2\Assignment 2\PayrollLibrary\obj\Debug\net8.0\PayrollLibrary.csproj.CoreCompileInputs.cache
+E:\.NET\Module 2\Assignment 2\PayrollLibrary\obj\Debug\net8.0\PayrollLibrary.dll
+E:\.NET\Module 2\Assignment 2\PayrollLibrary\obj\Debug\net8.0\refint\PayrollLibrary.dll
+E:\.NET\Module 2\Assignment 2\PayrollLibrary\obj\Debug\net8.0\PayrollLibrary.pdb
+E:\.NET\Module 2\Assignment 2\PayrollLibrary\obj\Debug\net8.0\ref\PayrollLibrary.dll

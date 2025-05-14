@@ -1,0 +1,11 @@
+E:\.NET\Module 2\Practice 11\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+E:\.NET\Module 2\Practice 11\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+E:\.NET\Module 2\Practice 11\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+E:\.NET\Module 2\Practice 11\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\Module 2\Practice 11\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+E:\.NET\Module 2\Practice 11\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+E:\.NET\Module 2\Practice 11\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\.NET\Module 2\Practice 11\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+E:\.NET\Module 2\Practice 11\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+E:\.NET\Module 2\Practice 11\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+E:\.NET\Module 2\Practice 11\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll

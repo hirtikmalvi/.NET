@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.NET\\Module 2\\Practice 2\\Practice 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C062773A-BB38-4E0B-AE36-D203314A2742}|Practice 2.csproj|e:\\.net\\module 2\\practice 2\\practice 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C062773A-BB38-4E0B-AE36-D203314A2742}|Practice 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C062773A-BB38-4E0B-AE36-D203314A2742}|Practice 2.csproj|e:\\.net\\module 2\\practice 2\\practice 2\\classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C062773A-BB38-4E0B-AE36-D203314A2742}|Practice 2.csproj|solutionrelative:classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C062773A-BB38-4E0B-AE36-D203314A2742}|Practice 2.csproj|e:\\.net\\module 2\\practice 2\\practice 2\\classes\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C062773A-BB38-4E0B-AE36-D203314A2742}|Practice 2.csproj|solutionrelative:classes\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.NET\\Module 2\\Practice 2\\Practice 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\.NET\\Module 2\\Practice 2\\Practice 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:39:42.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "E:\\.NET\\Module 2\\Practice 2\\Practice 2\\Classes\\Transaction.cs",
+              "RelativeDocumentMoniker": "Classes\\Transaction.cs",
+              "ToolTip": "E:\\.NET\\Module 2\\Practice 2\\Practice 2\\Classes\\Transaction.cs",
+              "RelativeToolTip": "Classes\\Transaction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:58:08.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "E:\\.NET\\Module 2\\Practice 2\\Practice 2\\Classes\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Classes\\BankAccount.cs",
+              "ToolTip": "E:\\.NET\\Module 2\\Practice 2\\Practice 2\\Classes\\BankAccount.cs",
+              "RelativeToolTip": "Classes\\BankAccount.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwD0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:42:16.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

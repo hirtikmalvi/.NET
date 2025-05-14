@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.NET\\Module 2\\Practice 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4D8CD3-117E-4428-ABA7-DFBB8F9FD86C}|Practice 6.csproj|e:\\.net\\module 2\\practice 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4D8CD3-117E-4428-ABA7-DFBB8F9FD86C}|Practice 6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4D8CD3-117E-4428-ABA7-DFBB8F9FD86C}|Practice 6.csproj|e:\\.net\\module 2\\practice 6\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4D8CD3-117E-4428-ABA7-DFBB8F9FD86C}|Practice 6.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4D8CD3-117E-4428-ABA7-DFBB8F9FD86C}|Practice 6.csproj|e:\\.net\\module 2\\practice 6\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4D8CD3-117E-4428-ABA7-DFBB8F9FD86C}|Practice 6.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\.NET\\Module 2\\Practice 6\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "E:\\.NET\\Module 2\\Practice 6\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:56:48.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\.NET\\Module 2\\Practice 6\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "E:\\.NET\\Module 2\\Practice 6\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:51:54.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.NET\\Module 2\\Practice 6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\.NET\\Module 2\\Practice 6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:22:10.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
