@@ -52,7 +52,6 @@ namespace Assignment_3.Models
 
             modelBuilder.Entity<Product>().Property(p => p.Price).HasPrecision(10, 2);
         }
-
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Order> Orders { get; set; }
